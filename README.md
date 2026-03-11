@@ -1,11 +1,9 @@
-# M&A Analysis — HDFC Bank & HDFC Ltd Merger 
+# M&A Analysis — HDFC Bank & HDFC Ltd Merger
 
-Analyzed the $40B+ merger between India's largest housing finance company and its leading private bank, focusing on deal rationale, synergy identification, and EPS impact.
+- Analyzed the strategic rationale behind India's largest ever banking merger ($40B+), focusing on balance sheet consolidation and distribution synergies across 68M+ customers
 
-- Studied the deal structure and strategic rationale — unlocking cross-sell opportunities across a combined **68M+ customer base**
+- Identified revenue synergies via home loan cross-sell and cost synergies through shared operations and access to low-cost deposit funding
 
-- Identified **revenue synergies** (home loan cross-sell) and **cost synergies** (shared operations, low-cost deposit funding)
-
-- Assessed post-merger EPS impact and concluded the deal was **value-accretive** for HDFC Bank shareholders
+- Assessed post-merger EPS impact and concluded the transaction was value-accretive for HDFC Bank shareholders
 
 **Skills:** M&A Analysis · Deal Structuring · Synergy Assessment · EPS Accretion/Dilution · Financial Analysis
