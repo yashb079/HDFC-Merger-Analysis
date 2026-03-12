@@ -1,9 +1,11 @@
 # M&A Analysis — HDFC Bank & HDFC Ltd Merger
 
-- Analyzed the strategic rationale behind India's largest ever banking merger ($40B+), focusing on balance sheet consolidation and distribution synergies across 68M+ customers
+- HDFC Bank & HDFC Ltd — M&A Deal Analysis
 
-- Identified revenue synergies via home loan cross-sell and cost synergies through shared operations and access to low-cost deposit funding
+- Study of the $40B HDFC Bank–HDFC Ltd merger (announced 2022, completed July 2023). Covers deal rationale, synergy quantification, swap ratio analysis, and EPS accretion/dilution modelling.
 
-- Assessed post-merger EPS impact and concluded the transaction was value-accretive for HDFC Bank shareholders
+- Key numbers: Revenue synergies INR 4,000–6,000 Cr/yr · Cost synergies INR 11,600–12,200 Cr/yr · Pre-synergy EPS dilution −1.6% · Post-synergy EPS accretion +3–7%
 
-**Skills:** M&A Analysis · Deal Structuring · Synergy Assessment · EPS Accretion/Dilution · Financial Analysis
+- Tools: Microsoft Excel (EPS model) · PowerPoint · Word
+
+- Concepts: M&A Analysis · Synergy Quantification · EPS Accretion/Dilution · Deal Structuring · Cost of Funds Analysis · Swap Ratio 
